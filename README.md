@@ -2,7 +2,7 @@
 
 ## <u> Overview and Origin </u>
 
- [Helium](https://www.helium.com/) is an Internet-of-Things developer platform for building networks and transferring IoT device data. The platform is famous for building peer-to-peer weireless network that simplify connectivity to the internet and becoming a network operator. Helium devices provide wireless coverage where it's users can earn cryptocurrency tokens known as Helium from their living rooms. A simple explanation on the Helium platform can be explained by <i><b> clicking on the image below</i></b>.
+ [Helium](https://www.helium.com/) is an Internet-of-Things developer platform for building networks and transferring IoT device data. The platform is famous for building peer-to-peer weireless network that simplify connectivity to the internet and becoming a network operator. Helium devices provide wireless coverage where it's users can earn cryptocurrency tokens known as Helium from their living rooms. A simple explanation on the Helium platform can be explained by a video. To watch the video,<i><b> click on the image below</i></b>.
 
  [![Helium](HeliumImage.jpg)](https://www.youtube.com/watch?v=Vx9YyS7-d3g&ab_channel=Helium)
 
